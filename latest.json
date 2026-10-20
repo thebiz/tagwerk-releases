@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apk": "Tagwerk.apk",
-  "sha256": "596d4251147dee74abdf6bf46b35300e2b54c43e9ecfe5dbc00c5f2112085b22",
-  "notes": "Neu: Tagwerk sucht selbst nach Updates – beim Start und über „Nach Updates suchen“ in der Verwaltung."
+  "sha256": "9b2fe09aedec44adcf5ecfbf382b3a9701f4437bcae0195924b60c64cb97fbf5",
+  "notes": "Neu: Der Timer klingelt jetzt auch, wenn Tagwerk im Hintergrund ist oder der Bildschirm aus ist. Während er läuft, siehst du die Restzeit in den Benachrichtigungen."
 }
