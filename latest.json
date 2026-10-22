@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.2.1",
   "apk": "Tagwerk.apk",
-  "sha256": "9b2fe09aedec44adcf5ecfbf382b3a9701f4437bcae0195924b60c64cb97fbf5",
-  "notes": "Neu: Der Timer klingelt jetzt auch, wenn Tagwerk im Hintergrund ist oder der Bildschirm aus ist. Während er läuft, siehst du die Restzeit in den Benachrichtigungen."
+  "sha256": "0ddb4b894d3df76409adb5ed51683f861744eed23b8b15c39b39d7a4e1b6f1ed",
+  "notes": "Neu: Neues App-Symbol – grün leuchtender Haken auf dunklem Grund, passend zu Satz, Spur und Funke."
 }
